@@ -9,9 +9,9 @@
 ## Work in games -
    
 BattleEye:  
-PU
+P
 EFT
-DayZ
+DayZ 
 R6:Siege
 Unturned
 Arma 3
