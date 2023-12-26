@@ -9,8 +9,8 @@ Battl
 DayZ    
 R6:Si     
 Un      
-Fortnite  
-Easy Anti-chea     
+Fortnite   
+Easy Anti-chea    
 Apex
 Rust  
 SCU
