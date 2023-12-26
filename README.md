@@ -10,8 +10,8 @@ DayZ
 R6:Si     
 Un      
 Fo
-Easy Anti-chea       
-Ap     
+Easy Anti-chea        
+Ap    
 Rust  
 SCU 
 Dead by Dayligh
