@@ -8,9 +8,8 @@
 
 ## Work in games - 
 BattleE  
-
 EFT  
-DayZ    
+DayZ     
 R6:Siege
 Unturn
 Arma 3 
