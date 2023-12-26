@@ -9,9 +9,9 @@ Battl
 DayZ     
 R6:Si     
 Un       
-Fo
+F
 Easy Anti-chea         
-Ap   
+Ap    
 Rust  
 SCU 
 Dead by Dayligh
