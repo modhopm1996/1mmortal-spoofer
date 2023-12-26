@@ -8,8 +8,8 @@
    
 ## Work in games 
 Battl
-EFT 
-DayZ      
+EFT
+DayZ       
 R6:Si 
 Unt
 Arma 3   
