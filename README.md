@@ -7,11 +7,11 @@
 ## Work in ga
 Battl  
 DayZ     
-R6:Si      
+R6:Si     
 Un      
 Fortnite       
      
-Easy Anti-chea 
+Easy Anti-chea  
 
 Apex
 Rust 
