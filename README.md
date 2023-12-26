@@ -10,8 +10,8 @@ DayZ
 R6:Si       
 Un      
 Easy Anti-chea         
-A 
-Rus
+A  
+Ru
 SCU     
 Dead by Dayligh
 Enliste 
