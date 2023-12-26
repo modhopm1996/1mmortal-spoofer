@@ -7,12 +7,12 @@
 ## Work in g
 Battl      
 DayZ        
-R6:Si        
+R6:Si       
 Un      
 Easy Anti-chea         
 A 
 Rus
-SCU    
+SCU     
 Dead by Dayligh
 Enliste 
 Fortnite
