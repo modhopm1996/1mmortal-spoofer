@@ -9,8 +9,8 @@ Battl
 DayZ        
 R6:Si      
 Un    
-Easy Anti-chea          
-A  
+Easy Anti-chea         
+A   
 Ru
 SCU     
 Dead by Dayligh
