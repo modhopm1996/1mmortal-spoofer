@@ -11,9 +11,9 @@ BattleEy
  
 EFT  
 DayZ   
-R6:Siege 
+R6:Siege  
 Unturne
-Arma 3 
+Arma 3
 Fortnite 
 
 Easy Anti-cheat:
