@@ -8,10 +8,10 @@
    
 ## Work in games 
 Battl 
-EF
+E
 DayZ       
 R6:Si 
-Un
+Un 
 Arma 3   
 Fortnite   
  
