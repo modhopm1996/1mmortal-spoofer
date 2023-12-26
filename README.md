@@ -11,9 +11,9 @@ DayZ
 R6:Si    
 Un   
 Arma 
-Fortnite    
+Fortnite     
    
-Easy Anti-cheat
+Easy Anti-chea
 
 Apex
 Rust
