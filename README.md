@@ -11,8 +11,8 @@ Battl
 EFT  
 DayZ     
 R6:Si 
-Untur
-Arma 3  
+Untu
+Arma 3   
 Fortnite  
  
 Easy Anti-cheat:
