@@ -9,11 +9,11 @@ Battl
 DayZ     
 R6:Si      
 Un        
-Fortni
+Fortn
 Easy Anti-chea     
 Ap  
 Rust  
-SCU
+SCU 
 Dead by Dayligh
 Enlisted
 Fortnite
