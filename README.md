@@ -11,8 +11,8 @@ R6:Si
 Un    
 Fortnite        
      
-Easy Anti-chea   
-Apex
+Easy Anti-chea  
+Apex 
 Rust 
 SCU
 Dead by Daylight
