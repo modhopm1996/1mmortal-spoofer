@@ -9,11 +9,11 @@
 Battl  
 DayZ      
 R6:Si    
-Un  
+Un   
 Arma 
 Fortnite    
    
-Easy Anti-cheat:
+Easy Anti-cheat
 
 Apex
 Rust
