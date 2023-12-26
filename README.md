@@ -10,8 +10,8 @@ Battl
 DayZ      
 R6:Si    
 Un  
-Arma 3
-Fortnite    
+Arma 
+Fortnite     
   
 Easy Anti-cheat:
 
