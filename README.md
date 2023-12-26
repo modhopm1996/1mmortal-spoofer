@@ -7,13 +7,13 @@
  
 ## Work in gam
 Battl 
-DayZ       
+DayZ      
 R6:Si    
 Un    
 A
 Fortnite      
      
-Easy Anti-chea
+Easy Anti-chea 
 
 Apex
 Rust
