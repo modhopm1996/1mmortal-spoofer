@@ -7,10 +7,10 @@
 ## Work in g
 Battl     
 DayZ     
-R6:Si     
+R6:Si    
 Un          
 F 
-Easy Anti-chea        
+Easy Anti-chea         
 Ap  
 Rust
 SCU   
