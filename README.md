@@ -7,10 +7,10 @@
 ## Work in g
 Battl      
 DayZ       
-R6:Si       
+R6:Si        
 Un        
 Easy Anti-chea        
-A 
+A
 Rust 
 SCU   
 Dead by Dayligh
