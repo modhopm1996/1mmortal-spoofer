@@ -10,9 +10,9 @@ DayZ
 R6:Si       
 Un        
   
-Easy Anti-chea        
+Easy Anti-chea       
 A 
-Rust 
+Rust  
 SCU   
 Dead by Dayligh
 Enliste 
