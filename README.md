@@ -11,8 +11,8 @@ R6:Si
 Un     
 Easy Anti-chea          
 A 
-Ru
-SCU        
+R
+SCU         
 Dead by Dayli
 Enliste
 Fortnite
