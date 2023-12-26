@@ -8,11 +8,11 @@
 Battl     
 DayZ     
 R6:Si     
-Un        
+Un         
 F 
 Easy Anti-chea        
 Ap  
-Rust 
+Rust
 SCU   
 Dead by Dayligh
 Enliste 
