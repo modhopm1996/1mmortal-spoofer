@@ -8,9 +8,9 @@
 ## Work in game 
 Battl 
 DayZ      
-R6:Si  
+R6:Si   
 Un    
-Arm
+Ar
 Fortnite      
     
 Easy Anti-chea
