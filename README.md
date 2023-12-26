@@ -9,8 +9,8 @@
 ## Work in games - 
    
 BattleEye:
-P
-EFT 
+
+EFT  
 DayZ  
 R6:Siege
 Unturne
