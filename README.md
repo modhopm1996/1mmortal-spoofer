@@ -9,8 +9,8 @@ Battl
 DayZ     
 R6:Si      
 Un      
-Fortn
-Easy Anti-chea     
+Fort
+Easy Anti-chea      
 Ap    
 Rust  
 SCU 
