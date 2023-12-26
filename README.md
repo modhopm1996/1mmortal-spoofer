@@ -13,9 +13,9 @@ F
 Easy Anti-chea        
 Ap   
 Rust 
-SCU 
+SCU  
 Dead by Dayligh
-Enlisted
+Enliste
 Fortnite
 
 
