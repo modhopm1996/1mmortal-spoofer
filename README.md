@@ -10,10 +10,10 @@ DayZ
 R6:Si     
 Un       
 Fortnite  
-Easy Anti-chea   
+Easy Anti-chea    
 Apex
 Rust  
-SCU 
+SCU
 Dead by Dayligh
 Enlisted
 Fortnite
