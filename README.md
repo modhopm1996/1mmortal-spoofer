@@ -9,10 +9,10 @@ Battl
 DayZ         
 R6:Si      
 Un       
-Easy Anti-chea        
+Easy Anti-chea         
 A 
 Ru 
-SCU        
+SCU       
 Dead by Dayli
 Enliste 
 Fortnite
