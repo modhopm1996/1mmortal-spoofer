@@ -9,8 +9,8 @@
 ## Work in games 
 BattleE  
 EFT   
-DayZ     
-R6:Sie
+DayZ      
+R6:Si
 Unturn
 Arma 3  
 Fortnite 
