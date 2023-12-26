@@ -8,10 +8,10 @@
 Battl   
 DayZ    
 R6:Si     
-Un      
+Un     
 Fortnite     
     
-Easy Anti-chea  
+Easy Anti-chea   
 Apex 
 Rust 
 SCU
