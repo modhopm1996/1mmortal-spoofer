@@ -8,10 +8,10 @@
 Battl     
 DayZ     
 R6:Si     
-Un      
+Un       
 Fortnite  
 Easy Anti-chea     
-Ape
+Ap
 Rust  
 SCU
 Dead by Dayligh
