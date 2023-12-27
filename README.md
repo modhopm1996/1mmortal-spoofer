@@ -9,9 +9,9 @@ Battl
 DayZ     
 R6:Si        
 Un    
-Easy Anti-chea        
+Easy Anti-chea       
 A     
-   
+    
 SCU       
 Dead by Dayl 
 Enlis 
