@@ -10,9 +10,9 @@ DayZ
 R6:Si          
 Un  
 Easy Anti-chea          
-A     
+A    
   
-SCU        
+SCU         
 Dead by Dayl
 Enlist
 Fortnite
